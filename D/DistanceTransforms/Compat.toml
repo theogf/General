@@ -1,4 +1,4 @@
-[0]
+["0-0.1"]
 Distances = "0.10"
 ImageEdgeDetection = "0.1"
 ImageMorphology = "0.2"
