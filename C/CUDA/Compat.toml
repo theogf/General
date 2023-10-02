@@ -117,6 +117,7 @@ GPUCompiler = "0.9"
 Statistics = "1.6.0-1"
 
 ["2.5-4"]
+LazyArtifacts = "1.6.0-1"
 julia = "1.6.0-1"
 
 ["2.6-2"]
@@ -281,6 +282,7 @@ Crayons = "4"
 DataFrames = "1"
 GPUArrays = "9"
 GPUCompiler = "0.24"
+LazyArtifacts = "1.8.0-1"
 NVTX = "0.3.2-0.3"
 PrettyTables = "2"
 julia = "1.8.0-1"
